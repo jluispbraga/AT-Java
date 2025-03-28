@@ -1,0 +1,3 @@
+Pao de queijo,30,30.0
+Peito de frango,2,20.0
+Vinho,1,1300.0
